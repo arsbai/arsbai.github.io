@@ -15,7 +15,7 @@ name                     : &name "Zhaocheng Bai (白钊成)"
 description              : &description "My research focuses on leveraging digital technologies and AI to explore the interplay between the environment and human perception and behavior. I am also interested in the broader perceivable society beyond landscape perception."
 url                      : "https://arsbai.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "arsbai/arsbai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
