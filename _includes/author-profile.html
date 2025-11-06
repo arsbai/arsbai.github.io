@@ -62,6 +62,10 @@
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
+      {% if author.cnki_link %}
+        <li><a href="{{ author.cnki_link }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <img src="/images/CNKI.png" alt="CNKI" style="width: 1.14em; height: 1.14em; vertical-align: -0.125em;"> CNKI</a></li>
+      {% endif %}
       {% if author.scopus %}
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus ai-fw icon-pad-right"></i>Scopus</a></li>
       {% endif %}
