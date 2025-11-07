@@ -1,56 +1,70 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## Resonating Minds, Sensing Worlds <br> 精合感应 知与物接
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+LAND: The earth and all things; SCAPE: Observation and perception. This duality also exists in the Chinese context: 景 (jǐng, the scenery/physical elements) and 观 (guān, the observation/act of perceiving). My research interest encompasses everything that can be perceived by humans. I focus on meaningful human-environment interactions, using human experience as the metric for evaluating the environment. This involves understanding the physical and social environment through sensory perception, post-processing emotional and cognitive responses, and resulting behaviors. However, perception is often considered immeasurable. My work is dedicated to leveraging multi-modal data, intelligent technologies, and advanced geospatial algorithms to measure human perception, interpret the physical mechanisms causing perceptual differences, and understand the deeper geographical and social contexts. The ultimate goal is to support the construction of a just and equitable landscape framework for human well-being.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+---
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Research Interests 研究兴趣
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+My research interests include, but are not limited to:
+* Human-Environment Interaction & Environmental Perception
+* Urban Vitality & Social Sensing
+* Geospatial Artificial Intelligence (GeoAI) & Urban Science
+* Environmental Justice & Human Well-being
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<p style="text-align: right;"><a href="/cv/" class="btn btn--primary">Show More</a></p>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Selected Publications 代表作
 
-**Markdown generator**
+[1] 齐君, **白钊成**, 吕光耀, 等. 基于人眼视域图像识别的风景道视觉景观质量评价[J]. 地理学报, 2022, 77(11): 2817-2837.
+<br> Ql Jun, **BAl Zhaocheng**, LYU Guangyao, TANG Xueqiong. Visual landscape quality of scenic road: Applying image recognition to decipher human field of view[J]. *Acta Geographica Sinica*, 2022, 77(11): 2817-2837.
+<br> [**[Link]**](https://kns.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsZwLci6Zts9nuqQ0kpvUWGSZtEOjp54krAbGpzVu-FhZs_BLpN2tsQ_ykHfdZVYOxPk3Kl0xdV6OSaD03k2NSpKJ38pg7pc_MGPKyWVaA4oADUxjuLFqzpgbKYZxl59XXoBvVXfRABq4wDLMbaljeIovYqwX8pcayE=&uniplatform=NZKPT)
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+[2] **Bai, Z.**, Huang, S., Wang, L., & Qi, J. (2025). Refined understanding of street vitality: comparing the spatial effects of pedestrian vitality and cycling vitality and the spatial heterogeneity of factors. *International Journal of Digital Earth*, 18(1), 2501769.
+<br> [**[Link]**](https://doi.org/10.1080/17538947.2025.2501769)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<p style="text-align: right;"><a href="/publications/" class="btn btn--primary">Show More</a></p>
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+---
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## News 新闻
+
+* **2025.10** Shaoxing University, Shaoxing Zhejiang.
+    <br> Presentation of 1st Prize Paper at: The 12th Zhejiang Provincial Leisure Association Annual Conference Interdisciplinary Symposium on "Human Leisure Civilization in the Digital Intelligence Era" (第十二届浙江省休闲学会年会“数智时代的人类休闲文明”跨学科主题研讨会).
+
+* **2025.9** Southwest University, Chongqing.
+    <br> Presentation at: The 14th Chinese Landscape Architecture Education Conference and the National Annual Meeting for the Professional Master's Degree in Landscape Architecture (第十四届中国风景园林教育大会 全国风景园林专业学位研究生教育年会).
+
+* **2025.7** Tongji University, Shanghai.
+    <br> Presentation at: The 3rd Scientific Conference on Healthy Cities and the 9th Symposium on the Application of GIS and Spatial Analysis in Public Health (第三届健康城市科学年会 暨第九届地理信息和空间分析技术在公共卫生健康领域的应用研讨会).
+
+* **2025.5** Online.
+    <br> Presentation at: *Chinese Landscape Architecture* Themed Forum: Social Networks and Community in Landscape Architecture (《中国园林》主题论坛：风景园林社会网络与共同体).
+
+<p style="text-align: right;"><a href="/news/" class="btn btn--primary">Show More</a></p>
+
+---
+
+## Awards and Honors 奖励荣誉
+
+* 2025 同济大学 博士生国家奖学金
+* 2022 云南省优秀硕士毕业生
+* 2022 云南省优秀硕士学位论文
+* 2021 西南林业大学 硕士生国家奖学金
+* 2020 中国（小谷围）“互联网+交通运输”创新创业大赛 总决赛 三等奖
+
+<p style="text-align: right;"><a href="/cv/" class="btn btn--primary">Show More</a></p>
+
+---
+
+## Get in Touch 与我联系
+
+You can reach me via the email listed in the sidebar. I look forward to connecting with you.
