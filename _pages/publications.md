@@ -85,6 +85,10 @@ author_profile: true
   Published in <i>中国园林, 2025</i><br>
   Citation: 李海春,谢梦云,白钊成,等. 基于HGIS的唐代私家园林时空格局演变过程及其驱动力研究[J].中国园林,2025,41(06):146-152.</p>
   
+  <p><b><a href="https://doi.org/10.1016/j.jretconser.2025.104423" target="_blank">Unraveling the consumer geography from the review big data: A supply-demand duality perspective using store density and expenditure intensity</a></b><br>
+  Published in <i>Journal of Retailing and Consumer Services, 2025</i><br>
+  Citation: Gao, Feng, Zhaocheng Bai, Jiemin Wu, Zirui Chen, Wangyang Chen, Guanyao Li, and Shunyi Liao. "Unraveling the consumer geography from the review big data: A supply-demand duality perspective using store density and expenditure intensity." <i>Journal of Retailing and Consumer Services</i> 87 (2025): 104423.</p>
+
   <p><b><a href="https" target="_blank">不同尺度下街道空间绿化品质测度研究与提升策略——以杭州市中心城区为例</a></b><br>
   <i>Measurement and Enhancement Strategies for Street Space Greening Quality at Different Scales: A Case Study of Hangzhou's Central City Area</i><br>
   Published in <i>林业与生态科学, 2021</i><br>

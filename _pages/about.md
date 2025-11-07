@@ -66,10 +66,6 @@ LAND: The earth and all things; SCAPE: Observation and perception. This duality 
 
 ## Get in Touch 与我联系
 
----
-
-## Get in Touch 与我联系
-
 | Fellow Platform (微信公众号) | Personal WeChat (个人微信) |
 |:---:|:---:|
 | <img src="/images/platform_qr.png" alt="微信公众号" style="width:200px; max-width: 100%;"> | <img src="/images/personal_qr.png" alt="个人微信" style="width:200px; max-width: 100%;"> |
