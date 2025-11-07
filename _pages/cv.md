@@ -1,64 +1,39 @@
 ---
-layout: archive
-title: "CV"
+layout: single
 permalink: /cv/
+title: "CV 简历"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Landscape Architecture**, CAUP of Tongji University, 2027 (expected)
+* **M.S. in Landscape Architecture**, Southwest Forestry University, 2022
+* **B.S. in Landscape Gardening**, JiLin Agricultural Science and Technology University, 2019
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Work Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **2024, Teaching Assistant (TA) for Digital Landscape course**
+    * College of Architecture and Urban Planning (CAUP), Tongji University
+    * (中文: 2024, 同济大学 建筑与城市规划学院, 数字景观课程助教)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **2019-2022, Intern**
+    * Urban Design Institute, Southwest Forestry University
+    * (中文: 2019-2022, 实习, 西南林业大学 城市设计院)
+    * Primarily participated in multiple projects including traditional village conservation planning, tourism planning, and practical village planning. Including:
+    * (中文: 主要参与完成传统村落保护规划、旅游规划、实用性村庄规划多项，包括：)
+        * 《苍山洱海国家级自然保护区生态旅游发展规划》
+        * 《大理永胜村大五茂林村传统村落保护规划》
+        * 《大理永胜村箐门口村传统村落保护规划》
+        * 《普达措国家公园入口社区规划》
+        * 《昭通市永善县黄金村“多规合一”实用性村庄规划》
+        * 《昭通市永善县明子村“多规合一”实用性村庄规划》
+
+---
+
+## Funding
+
+* **Participant**, Scientific Research Fund of the Education Department of Yunnan Province (Graduate Program), 2020-2022
+    * (中文: 参与, 云南省教育厅科学研究基金研究生类项目, 2020-2022)
