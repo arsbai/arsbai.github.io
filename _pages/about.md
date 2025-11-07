@@ -12,11 +12,10 @@ LAND: The earth and all things; SCAPE: Observation and perception. This duality 
 
 ## Research Interests 研究兴趣
 
-My research interests include, but are not limited to:
 * Human-Environment Interaction & Environmental Perception
 * Urban Vitality & Social Sensing
-* Geospatial Artificial Intelligence (GeoAI) & Urban Science
-* Environmental Justice & Human Well-being
+* Human Well-being & Environmental Justice
+* Geospatial Artificial Intelligence
 
 <p style="text-align: right;"><a href="/cv/" class="btn btn--primary">Show More</a></p>
 
@@ -67,4 +66,10 @@ My research interests include, but are not limited to:
 
 ## Get in Touch 与我联系
 
-You can reach me via the email listed in the sidebar. I look forward to connecting with you.
+---
+
+## Get in Touch 与我联系
+
+| Fellow Platform (微信公众号) | Personal WeChat (个人微信) |
+|:---:|:---:|
+| <img src="/images/platform_qr.png" alt="微信公众号" style="width:200px; max-width: 100%;"> | <img src="/images/personal_qr.png" alt="个人微信" style="width:200px; max-width: 100%;"> |
