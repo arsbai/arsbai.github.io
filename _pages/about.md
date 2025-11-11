@@ -4,9 +4,11 @@ layout: single
 author_profile: true
 ---
 
-## Resonating Minds, Sensing Worlds <br> 精合感应 知与物接
+## Sensing Worlds <br> 精合感应 知与物接
 
-LAND: The earth and all things; SCAPE: Observation and perception. This duality also exists in the Chinese context: 景 (jǐng, the scenery/physical elements) and 观 (guān, the observation/act of perceiving). My research interest encompasses everything that can be perceived by humans. I focus on meaningful human-environment interactions, using human experience as the metric for evaluating the environment. This involves understanding the physical and social environment through sensory perception, post-processing emotional and cognitive responses, and resulting behaviors. However, perception is often considered immeasurable. My work is dedicated to leveraging multi-modal data, intelligent technologies, and advanced geospatial algorithms to measure human perception, interpret the physical mechanisms causing perceptual differences, and understand the deeper geographical and social contexts. The ultimate goal is to support the construction of a just and equitable landscape framework for human well-being.
+LAND denotes all physical elements on earth; SCAPE signifies observation and perception. This duality parallels the Chinese context: 景 (jǐng, physical elements) and 观 (guān, perceiving).
+My research encompasses human-perceivable phenomena and human-environment interactions, involving sensory perception of physical and social environments, cognitive-affective processing, and resulting behaviors. These human experiences serve as evaluative metrics for assessing environmental quality.
+However, perception, cognition, and behavior are often deemed immeasurable. My work leverages multi-modal data, intelligent technologies, and advanced geospatial algorithms to measure human perception, interpret the physical mechanisms underlying perceptual differences, and elucidate deeper geographical and social contexts.
 
 ---
 
@@ -16,8 +18,6 @@ LAND: The earth and all things; SCAPE: Observation and perception. This duality 
 * Urban Vitality & Social Sensing
 * Human Well-being & Environmental Justice
 * Geospatial Artificial Intelligence
-
-<p style="text-align: right;"><a href="/cv/" class="btn btn--primary">Show More</a></p>
 
 ---
 
@@ -37,16 +37,16 @@ LAND: The earth and all things; SCAPE: Observation and perception. This duality 
 ## News 新闻
 
 * **2025.10** Shaoxing University, Shaoxing Zhejiang.
-    <br> Presentation of 1st Prize Paper at: The 12th Zhejiang Provincial Leisure Association Annual Conference Interdisciplinary Symposium on "Human Leisure Civilization in the Digital Intelligence Era" (第十二届浙江省休闲学会年会“数智时代的人类休闲文明”跨学科主题研讨会).
+    <br> Presentation of 1st Prize Paper at: The 12th Zhejiang Provincial Leisure Association Annual Conference Interdisciplinary Symposium on "Human Leisure Civilization in the Digital Intelligence Era" (汇报 论文一等奖： 第十二届浙江省休闲学会年会“数智时代的人类休闲文明”跨学科主题研讨会).
 
 * **2025.9** Southwest University, Chongqing.
-    <br> Presentation at: The 14th Chinese Landscape Architecture Education Conference and the National Annual Meeting for the Professional Master's Degree in Landscape Architecture (第十四届中国风景园林教育大会 全国风景园林专业学位研究生教育年会).
+    <br> Presentation at: The 14th Chinese Landscape Architecture Education Conference and the National Annual Meeting for the Professional Master's Degree in Landscape Architecture (汇报：第十四届中国风景园林教育大会 全国风景园林专业学位研究生教育年会).
 
 * **2025.7** Tongji University, Shanghai.
-    <br> Presentation at: The 3rd Scientific Conference on Healthy Cities and the 9th Symposium on the Application of GIS and Spatial Analysis in Public Health (第三届健康城市科学年会 暨第九届地理信息和空间分析技术在公共卫生健康领域的应用研讨会).
+    <br> Presentation at: The 3rd Scientific Conference on Healthy Cities and the 9th Symposium on the Application of GIS and Spatial Analysis in Public Health (汇报：第三届健康城市科学年会 暨第九届地理信息和空间分析技术在公共卫生健康领域的应用研讨会).
 
 * **2025.5** Online.
-    <br> Presentation at: *Chinese Landscape Architecture* Themed Forum: Social Networks and Community in Landscape Architecture (《中国园林》主题论坛：风景园林社会网络与共同体).
+    <br> Presentation at: *Chinese Landscape Architecture* Themed Forum: Social Networks and Community in Landscape Architecture (汇报：《中国园林》主题论坛 风景园林社会网络与共同体).
 
 <p style="text-align: right;"><a href="/news/" class="btn btn--primary">Show More</a></p>
 
@@ -54,10 +54,10 @@ LAND: The earth and all things; SCAPE: Observation and perception. This duality 
 
 ## Awards and Honors 奖励荣誉
 
-* 2025 同济大学 博士生国家奖学金
+* 2025 博士生国家奖学金 同济大学
 * 2022 云南省优秀硕士毕业生
 * 2022 云南省优秀硕士学位论文
-* 2021 西南林业大学 硕士生国家奖学金
+* 2021 硕士生国家奖学金 西南林业大学 
 * 2020 中国（小谷围）“互联网+交通运输”创新创业大赛 总决赛 三等奖
 
 <p style="text-align: right;"><a href="/cv/" class="btn btn--primary">Show More</a></p>
