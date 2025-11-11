@@ -13,12 +13,7 @@ Presentation of 1st Prize Paper at: The 12th Zhejiang Provincial Leisure Associa
 
 **Associated Paper:** <i>Coming Paper: Using LLM for the Multidimensional Perception Assessment of Recreation and leisure spaces: A Case Study of Hangzhou, China. (Computational Urban Science)</i>
 
-<table>
-  <tr>
-    <td><img src="/images/Shaoxing1.png" alt="Shaoxing Conference 1" style="max-width: 100%;"></td>
-    <td><img src="/images/Shaoxing2.png" alt="Shaoxing Conference 2" style="max-width: 100%;"></td>
-  </tr>
-</table>
+<img src="/images/shaoxing1.png" alt="Chongqing Conference" style="width: 600px; max-width: 100%;">
 
 ---
 
@@ -30,12 +25,7 @@ Presentation at: The 14th Chinese Landscape Architecture Education Conference an
 
 **Associated Paper:** <i>Coming Paper: Pedestrian and Cycling Vitality in Scenic and Downtown Contexts: Geo-XAI Decoding Nonlinear Heterogeneous Impacts of Built Environment. (Cities)</i>
 
-<table>
-  <tr>
-    <td><img src="/images/chongq1.png" alt="Chongqing Conference 1" style="max-width: 100%;"></td>
-    <td><img src="/images/chongqing2.png" alt="Chongqing Conference 2" style="max-width: 100%;"></td>
-  </tr>
-</table>
+<img src="/images/chongqing1.png" alt="Chongqing Conference" style="width: 600px; max-width: 100%;">
 
 ---
 
