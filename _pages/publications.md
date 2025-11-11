@@ -19,7 +19,7 @@ author_profile: true
   <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsauzG6TS_W-Lf9yJo22douWkx4T3hlnQqvHRObd4ft-6hfu47ZvFMEakQ56LwrCPZLJ94Q6X230tq5oHHhtpDGtkzjzeatRpdj1HnVGmxuF7Sf_o3E_WzDIsZg3WuvVPTcxW_-rVJ3v_auUqxzit3WdaZDFCOptHQA=&uniplatform=NZKPT" target="_blank">基于图像识别技术的云南美丽公路景观质量研究</a></b><br>
   <i>Research on Landscape Quality of Yunnan's Beautiful Highways Based on Image Recognition Technology</i><br>
   Published in <i>硕士学位论文, 2022</i><br>
-  Citation: <b>白钊成</b>.基于图像识别技术的云南美丽公路景观质量研究[D].西南林业大学,2022.DOI:10.27416/d.cnki.gxnlc.2022.000019.</p>
+  Citation: <b>白钊成</b>.基于图像识别技术的云南美丽公路景观质量研究[D].西南林业大学,2022.</p>
 
   <p><b><a href="https://doi.org/10.1016/j.jenvman.2025.124584" target="_blank">Estimating aesthetic services of road landscapes through predicting people's attention: A computer vision approach</a></b><br>
   Published in <i>Journal of Environmental Management, 2025</i><br>
@@ -27,7 +27,7 @@ author_profile: true
   
   <p><b><a href="https://doi.org/10.1016/j.apacoust.2024.110205" target="_blank">Are natural soundscapes always beneficial? Evaluating the restorative qualities and influencing mechanisms of natural water soundscapes</a></b><br>
   Published in <i>Applied Acoustics, 2025</i><br>
-  Citation: Ji, Rui, et al. "Are natural soundscapes always beneficial? Evaluating the restorative qualities and influencing mechanisms of natural water soundscapes." <i>Applied Acoustics 227</i> (2025): 110205.</p>
+  Citation: Ji, Rui, Sheng Li, <b>Bai, Z.</b>, et al. "Are natural soundscapes always beneficial? Evaluating the restorative qualities and influencing mechanisms of natural water soundscapes." <i>Applied Acoustics 227</i> (2025): 110205.</p>
 </div>
 
 <div class="list__item">
@@ -96,12 +96,12 @@ author_profile: true
   <p><b><a href="https.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsY4DHMmbINXwfisI2Hc4vZVblGRgoqoIuf2VZbJdtTCdArVBw6rG-DJ-SPWmpHv7QOKduhp-ksgsB7JujWzffeXnheuSZ0iCjMDc7INbBsjowVl1gDlLlhY9_F7OKeZBCHDnGo-ecddvAtLxzPhwMLqGNFWGg9YMic=&uniplatform=NZKPT" target="_blank">迈向数智化——数字景观发展与前沿议题</a></b><br>
   <i>Towards Digital Intelligence: Development and Frontier Issues of Digital Landscape</i><br>
   Published in <i>中国园林, 2025</i><br>
-  Citation: 刘颂,柳迪子,<b>白钊成</b>,等. 迈向数智化——数字景观发展与前沿议题[J].中国园林,2025,41(10):137-144.DOI:10.19775/j.cla.2025.10.0137.</p>
+  Citation: 刘颂,柳迪子,<b>白钊成</b>,等. 迈向数智化——数字景观发展与前沿议题[J].中国园林,2025,41(10):137-144.</p>
   
   <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsYnuKXjQT54BsM2QJS45sdhk3T0CkuMxBssl1hp_AJktyVYCZb77bwZOt3IRUZTpJjq6OuxB8qh-sgPzx5DkxRrxYMyJuc5VcK-LnWxKwszwtxH0NIgnlNknkahx0Df0XxuhwjqQr6uWdzKeYS0N08f7cE1DH7bWaQ=&uniplatform=NZKPT" target="_blank">复杂适应系统视角下环城绿带“主体-环境”演进机制——以北京市绿隔为例</a></b><br>
   <i>Evolutionary Mechanism of "Agent-Environment" in Urban Green Belts from the Perspective of Complex Adaptive Systems: A Case Study of Beijing's Green Isolation Belt</i><br>
   Published in <i>风景园林, 2025</i><br>
-  Citation: 刘颂,沈培宇,柳迪子,等. 复杂适应系统视角下环城绿带“主体-环境”演进机制——以北京市绿隔为例[J].风景园林,2025,32(06):78-85.</p>
+  Citation: 刘颂,沈培宇,柳迪子,<b>白钊成</b>. 复杂适应系统视角下环城绿带“主体-环境”演进机制——以北京市绿隔为例[J].风景园林,2025,32(06):78-85.</p>
 
   <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsY4bu3baLwWbeh7e20et58Z15WRao4Ne9zgBzaLQWYI4-EHUWU2UtvFPw9Zdto_ygaHtJ6O6YZXxy1tDAFFEOWiWWf1UTeArpX6gAWDS8n_GkqHTXgAjhDVx0wBAukLK43hG2siRNzpNFHQebPbm7qUJxM0EWtpEjI=&uniplatform=NZKPT" target="_blank">基于HGIS的唐代私家园林时空格局演变过程及其驱动力研究</a></b><br>
   <i>Research on the Spatiotemporal Pattern Evolution and Driving Forces of Private Gardens in the Tang Dynasty Based on HGIS</i><br>

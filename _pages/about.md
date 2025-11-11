@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-## Sensing Worlds <br> 精合感应 知与物接
+## Sensing Worlds 精合感应 知与物接
 
 LAND denotes all physical elements on earth; SCAPE signifies observation and perception. This duality parallels the Chinese context: 景 (jǐng, physical elements) and 观 (guān, perceiving).
 My research encompasses human-perceivable phenomena and human-environment interactions, involving sensory perception of physical and social environments, cognitive-affective processing, and resulting behaviors. These human experiences serve as evaluative metrics for assessing environmental quality.
@@ -37,16 +37,20 @@ However, perception, cognition, and behavior are often deemed immeasurable. My w
 ## News 新闻
 
 * **2025.10** Shaoxing University, Shaoxing Zhejiang.
-    <br> Presentation of 1st Prize Paper at: The 12th Zhejiang Provincial Leisure Association Annual Conference Interdisciplinary Symposium on "Human Leisure Civilization in the Digital Intelligence Era" (汇报 论文一等奖： 第十二届浙江省休闲学会年会“数智时代的人类休闲文明”跨学科主题研讨会).
+    <br> Presentation of 1st Prize Paper at: The 12th Zhejiang Provincial Leisure Association Annual Conference Interdisciplinary Symposium on "Human Leisure Civilization in the Digital Intelligence Era" 
+汇报 论文一等奖： 第十二届浙江省休闲学会年会“数智时代的人类休闲文明”跨学科主题研讨会.
 
 * **2025.9** Southwest University, Chongqing.
-    <br> Presentation at: The 14th Chinese Landscape Architecture Education Conference and the National Annual Meeting for the Professional Master's Degree in Landscape Architecture (汇报：第十四届中国风景园林教育大会 全国风景园林专业学位研究生教育年会).
+    <br> Presentation at: The 14th Chinese Landscape Architecture Education Conference and the National Annual Meeting for the Professional Master's Degree in Landscape Architecture 
+汇报：第十四届中国风景园林教育大会 全国风景园林专业学位研究生教育年会.
 
 * **2025.7** Tongji University, Shanghai.
-    <br> Presentation at: The 3rd Scientific Conference on Healthy Cities and the 9th Symposium on the Application of GIS and Spatial Analysis in Public Health (汇报：第三届健康城市科学年会 暨第九届地理信息和空间分析技术在公共卫生健康领域的应用研讨会).
+    <br> Presentation at: The 3rd Scientific Conference on Healthy Cities and the 9th Symposium on the Application of GIS and Spatial Analysis in Public Health 
+汇报：第三届健康城市科学年会 暨第九届地理信息和空间分析技术在公共卫生健康领域的应用研讨会.
 
 * **2025.5** Online.
-    <br> Presentation at: *Chinese Landscape Architecture* Themed Forum: Social Networks and Community in Landscape Architecture (汇报：《中国园林》主题论坛 风景园林社会网络与共同体).
+    <br> Presentation at: *Chinese Landscape Architecture* Themed Forum: Social Networks and Community in Landscape Architecture 
+汇报：《中国园林》主题论坛 风景园林社会网络与共同体.
 
 <p style="text-align: right;"><a href="/news/" class="btn btn--primary">Show More</a></p>
 
