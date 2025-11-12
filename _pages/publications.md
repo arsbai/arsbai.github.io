@@ -83,6 +83,11 @@ author_profile: true
   <p><b><a href="https://doi.org/10.1016/j.jretconser.2025.104423" target="_blank">Unraveling the consumer geography from the review big data: A supply-demand duality perspective using store density and expenditure intensity</a></b><br>
   Published in <i>Journal of Retailing and Consumer Services, 2025</i><br>
   Citation: Gao, Feng, <b>Zhaocheng Bai</b>, Jiemin Wu, Zirui Chen, Wangyang Chen, Guanyao Li, and Shunyi Liao. "Unraveling the consumer geography from the review big data: A supply-demand duality perspective using store density and expenditure intensity." <i>Journal of Retailing and Consumer Services</i> 87 (2025): 104423.</p>
+
+  <p><b><a href="https://doi.org/10.1016/j.jclepro.2025.147059" target="_blank">Spatial differentiation and environmental mechanisms of Nighttime Economy Clusters: A supply-demand matching framework</a></b><br>
+  Published in <i>Journal of Cleaner Production, 2025</i><br>
+  Citation: Shuyu, Huang, Junru Gao, <b>Zhaocheng Bai</b>, Bin Li, and Jie Shen. "Spatial differentiation and environmental mechanisms of Nighttime Economy Clusters: A supply-demand matching framework." <i>Journal of Cleaner Production</i> (2025): 147059.</p>
+
 </div>
 
 <div class="list__item">
