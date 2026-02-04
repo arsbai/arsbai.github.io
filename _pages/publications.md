@@ -11,7 +11,7 @@ author_profile: true
   
   <p><b>Coming Paper</b>: 基于多模态大模型的城市空间感知评价方法框架研究—从提示词工程到实证分析. (风景园林)</p>
 
-  <p><b><a href="https://link.cnki.net/urlid/11.5366.S.20260126.1103.001" target="_blank">基于街景变化的城市更新模式与感知演变的关联分析——以上海市中央活动区为例</a></b><br>
+  <p><b><a href="https://link.cnki.net/urlid/11.5366.S.20260126.1103.001" target="_blank">基于街景变化的城市更新模式与感知演变的关联分析——以上海市中央活动区为例</a></b><br>
   Published in <i>风景园林, 2026</i><br>
   Citation: 刘颂,<b>白钊成</b>,黄舒语,等. 基于街景变化的城市更新模式与感知演变的关联分析——以上海市中央活动区为例[J/OL].风景园林,2026:1-19.</p>
   
@@ -63,7 +63,7 @@ author_profile: true
   
   <p><b>Coming Paper</b>: Integrating Heterogeneous User-Generated Contents into Spatial Modeling of Agricultural Landscape Recreational Services: A Geographically Weighted Random Forest Approach. (Ecological Informatics)</p>
 
-  <p><b><a href="https://doi.org/10.1007/s43762-026-00240-1" target="_blank">Using LLMs for the multidimensional perception assessment of recreation and leisure spaces: a case study of Hangzhou, China</a></b><br>
+  <p><b><a href="https://link.springer.com/article/10.1007/s43762-026-00240-1" target="_blank">Using LLMs for the multidimensional perception assessment of recreation and leisure spaces: a case study of Hangzhou, China</a></b><br>
   Published in <i>Computational Urban Science, 2026</i><br>
   Citation: <b>Zhaocheng Bai</b>, Yuchun Wu, Xi Kang, Xia Kong & Jiali Zhang, 2026. Using LLMs for the multidimensional perception assessment of recreation and leisure spaces: a case study of Hangzhou, China. <i>Computational Urban Science</i>.</p>
 </div>
@@ -71,7 +71,7 @@ author_profile: true
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Well-being & Justice (福祉正义性)</h2>
   
-  <p><b><a href="https://journals.sagepub.com/doi/10.1177/23998083261420306" target="_blank">Quantity or structure? Asset or burden? Causal evidence of street greenery’s impact on housing prices from sequential data</a></b><br>
+  <p><b><a href="https://journals.sagepub.com/doi/10.1177/23998083261420306" target="_blank">Quantity or structure? Asset or burden? Causal evidence of street greenery’s impact on housing prices from sequential data</a></b><br>
   Published in <i>Environment and Planning B: Urban Analytics and City Science, 2026</i><br>
   Citation: <b>Zhaocheng Bai</b>, Rui Ji, Feng Gao, Yuheng Mao, Song Liu, 2026. Quantity or structure? Asset or burden? Causal evidence of street greenery’s impact on housing prices from sequential data. <i>Environment and Planning B: Urban Analytics and City Science</i>.</p>
   
