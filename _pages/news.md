@@ -5,6 +5,16 @@ title: "News 新闻"
 author_profile: true
 ---
 
+### 2025.11, Southwest Forestry University, Kunming
+
+Informal Talk: “Academic Writing in the Era of Large Language Models: Methods and Submission Experience” (Liu, Qi & Pan’s Lab)
+<br>
+非正式分享： 西南林业大学 园林园艺学院 非正式分享——“大模型时代的科研论文写作：方法和投稿经验”（刘、齐、潘' 课题组）
+
+<img src="/images/xilin.png" alt="Kunming Conference" style="width: 600px; max-width: 100%;">
+
+---
+
 ### 2025.10, Shaoxing University, Shaoxing Zhejiang
 
 Presentation of 1st Prize Paper at: The 12th Zhejiang Provincial Leisure Association Annual Conference Interdisciplinary Symposium on “Human Leisure Civilization in the Digital Intelligence Era” 
