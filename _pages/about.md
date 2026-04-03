@@ -27,8 +27,11 @@ However, perception, cognition, and behavior are often deemed immeasurable. My w
 <br> Ql Jun, **BAl Zhaocheng**, LYU Guangyao, TANG Xueqiong. Visual landscape quality of scenic road: Applying image recognition to decipher human field of view[J]. *Acta Geographica Sinica*, 2022, 77(11): 2817-2837.
 <br> [**[Link]**](https://kns.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsZwLci6Zts9nuqQ0kpvUWGSZtEOjp54krAbGpzVu-FhZs_BLpN2tsQ_ykHfdZVYOxPk3Kl0xdV6OSaD03k2NSpKJ38pg7pc_MGPKyWVaA4oADUxjuLFqzpgbKYZxl59XXoBvVXfRABq4wDLMbaljeIovYqwX8pcayE=&uniplatform=NZKPT)
 
-[2] **Bai, Z.**, Huang, S., Wang, L., & Qi, J. (2025). Refined understanding of street vitality: comparing the spatial effects of pedestrian vitality and cycling vitality and the spatial heterogeneity of factors. *International Journal of Digital Earth*, 18(1), 2501769.
-<br> [**[Link]**](https://doi.org/10.1080/17538947.2025.2501769)
+[2] **Bai, Z.**, Mao, Y., Gao, F., & Liu, S. (2025). Pedestrian and cycling vitality in scenic and downtown contexts: Decoding nonlinear associations with the built environment via Geo-XAI. *CITIES*, 172 (2026): 106906.
+<br> [**[Link]**](https://doi.org/10.1016/j.cities.2026.106906)
+
+[3] **Bai, Z.**, Ji, R., Gao, F., Mao, Y., & Liu, S. (2026). Quantity or structure? Asset or burden? Causal evidence of street greenery’s impact on housing prices from sequential data. *Environment and Planning B: Urban Analytics and City Science*, 23998083261420306.
+<br> [**[Link]**](https://doi.org/10.1177/23998083261420306)
 
 <p style="text-align: right;"><a href="/publications/" class="btn btn--primary">Show More</a></p>
 

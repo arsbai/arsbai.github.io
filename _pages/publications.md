@@ -9,7 +9,10 @@ author_profile: true
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Perception (感知)</h2>
   
-  <p><b>Coming Paper</b>: 基于多模态大模型的城市空间感知评价方法框架研究—从提示词工程到实证分析. 王磊，郭家乐，白钊成等. (风景园林)</p>
+<p><b><a href="https://link.cnki.net/urlid/11.5366.S.20260319.1732.003" target="_blank">基于多模态大模型的城市空间感知评估框架构建与实证研究</a></b><br>
+<i>Framework Construction and Empirical Research on Urban Spatial Perception Assessment Based on Multimodal Large Language Models</i><br>
+Published in <i>风景园林, 2026</i><br>
+Citation: 王磊,郭家乐,<b>白钊成</b>,等. 基于多模态大模型的城市空间感知评估框架构建与实证研究[J/OL].风景园林,1-18[2026-04-03].https://link.cnki.net/urlid/11.5366.S.20260319.1732.003.</p>
   
   <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=hmNf6PfbaBvcrqD9VzinSZ1avrqNFkOZvsfxturhDxboPLYn-xldt4nKegsCb-pyB3Ur0V-E6dgmcHd2DJcyX0uYqzUbyI0e3mmSEl9q2k1obbxYlBm9K6Ud0O213Pe0yaS83JWkC90U_yfM6vdi9BNhmg67Gbn0dqYYK6JwjwFxFpYvfu1iRQ==&uniplatform=NZKPT&language=CHS" target="_blank">基于街景变化的城市更新模式与感知演变的关联分析——以上海市中央活动区为例</a></b><br>
   <i>Association Analysis of Urban Renewal Patterns and Perceptual Evolution Based on Street View Changes: A Case Study of Shanghai's Central Activity Zone</i><br>
@@ -38,7 +41,9 @@ author_profile: true
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Behavior (行为)</h2>
   
-  <p><b>Coming Paper</b>: Pedestrian and Cycling Vitality in Scenic and Downtown Contexts: Geo-XAI Decoding Nonlinear Heterogeneous Impacts of Built Environment. (Cities)</p>
+<p><b><a href="https://doi.org/10.1016/j.cities.2026.106906" target="_blank">Pedestrian and cycling vitality in scenic and downtown contexts: Decoding nonlinear associations with the built environment via Geo-XAI</a></b><br>
+Published in <i>Cities, 2026</i><br>
+Citation: <b>Bai, Z.</b>, Mao, Y., Gao, F. and Liu, S., 2026. Pedestrian and cycling vitality in scenic and downtown contexts: Decoding nonlinear associations with the built environment via Geo-XAI. <i>Cities, 172</i>, p.106906.</p>
   
   <p><b><a href="https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2501769" target="_blank">Refined understanding of street vitality: comparing the spatial effects of pedestrian vitality and cycling vitality and the spatial heterogeneity of factors</a></b><br>
   Published in <i>International Journal of Digital Earth, 2025</i><br>
@@ -89,7 +94,10 @@ author_profile: true
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Urban Renewal and Third Space (城市更新和第三空间)</h2>
   
-  <p><b>Coming Paper</b>: Multidimensional Perceptual Assessment of Urban Recreational Spaces Based on Large Language Models: A Case Study of Shanghai's Inner Ring Area (基于大语言模型的城市休闲空间多维感知评价——以上海市内环区域为例). (中国园林)</p>
+<p><b><a href="https://link.cnki.net/urlid/11.2165.TU.20260326.1540.002" target="_blank">基于大语言模型的城市休闲空间多维感知评价——以上海市内环区域为例</a></b><br>
+<i>Multidimensional Perceptual Assessment of Urban Recreational Spaces Based on Large Language Models: A Case Study of Shanghai's Inner Ring Area</i><br>
+Published in <i>中国园林, 2026</i><br>
+Citation: 刘颂,<b>白钊成</b>,高枫,等. 基于大语言模型的城市休闲空间多维感知评价——以上海市内环区域为例[J/OL].中国园林,1-8[2026-04-03].https://link.cnki.net/urlid/11.2165.TU.20260326.1540.002.</p>
 
   <p><b><a href="https://doi.org/10.1016/j.jretconser.2025.104423" target="_blank">Unraveling the consumer geography from the review big data: A supply-demand duality perspective using store density and expenditure intensity</a></b><br>
   Published in <i>Journal of Retailing and Consumer Services, 2025</i><br>
