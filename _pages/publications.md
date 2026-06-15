@@ -1,3 +1,4 @@
+```html
 ---
 layout: archive
 permalink: /publications/
@@ -9,10 +10,10 @@ author_profile: true
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Perception (感知)</h2>
   
-<p><b><a href="https://link.cnki.net/urlid/11.5366.S.20260319.1732.003" target="_blank">基于多模态大模型的城市空间感知评估框架构建与实证研究</a></b><br>
-<i>Framework Construction and Empirical Research on Urban Spatial Perception Assessment Based on Multimodal Large Language Models</i><br>
-Published in <i>风景园林, 2026</i><br>
-Citation: 王磊,郭家乐,<b>白钊成</b>,等. 基于多模态大模型的城市空间感知评估框架构建与实证研究[J/OL].风景园林,1-18[2026-04-03].https://link.cnki.net/urlid/11.5366.S.20260319.1732.003.</p>
+  <p><b><a href="https://link.cnki.net/urlid/11.5366.S.20260319.1732.003" target="_blank">基于多模态大模型的城市空间感知评估框架构建与实证研究</a></b><br>
+  <i>Framework Construction and Empirical Research on Urban Spatial Perception Assessment Based on Multimodal Large Language Models</i><br>
+  Published in <i>风景园林, 2026</i><br>
+  Citation: 王磊,郭家乐,<b>白钊成</b>,等. 基于多模态大模型的城市空间感知评估框架构建与实证研究[J/OL].风景园林,1-18[2026-04-03].https://link.cnki.net/urlid/11.5366.S.20260319.1732.003.</p>
   
   <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=hmNf6PfbaBvcrqD9VzinSZ1avrqNFkOZvsfxturhDxboPLYn-xldt4nKegsCb-pyB3Ur0V-E6dgmcHd2DJcyX0uYqzUbyI0e3mmSEl9q2k1obbxYlBm9K6Ud0O213Pe0yaS83JWkC90U_yfM6vdi9BNhmg67Gbn0dqYYK6JwjwFxFpYvfu1iRQ==&uniplatform=NZKPT&language=CHS" target="_blank">基于街景变化的城市更新模式与感知演变的关联分析——以上海市中央活动区为例</a></b><br>
   <i>Association Analysis of Urban Renewal Patterns and Perceptual Evolution Based on Street View Changes: A Case Study of Shanghai's Central Activity Zone</i><br>
@@ -41,9 +42,9 @@ Citation: 王磊,郭家乐,<b>白钊成</b>,等. 基于多模态大模型的城�
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Behavior (行为)</h2>
   
-<p><b><a href="https://doi.org/10.1016/j.cities.2026.106906" target="_blank">Pedestrian and cycling vitality in scenic and downtown contexts: Decoding nonlinear associations with the built environment via Geo-XAI</a></b><br>
-Published in <i>Cities, 2026</i><br>
-Citation: <b>Bai, Z.</b>, Mao, Y., Gao, F. and Liu, S., 2026. Pedestrian and cycling vitality in scenic and downtown contexts: Decoding nonlinear associations with the built environment via Geo-XAI. <i>Cities, 172</i>, p.106906.</p>
+  <p><b><a href="https://doi.org/10.1016/j.cities.2026.106906" target="_blank">Pedestrian and cycling vitality in scenic and downtown contexts: Decoding nonlinear associations with the built environment via Geo-XAI</a></b><br>
+  Published in <i>Cities, 2026</i><br>
+  Citation: <b>Bai, Z.</b>, Mao, Y., Gao, F. and Liu, S., 2026. Pedestrian and cycling vitality in scenic and downtown contexts: Decoding nonlinear associations with the built environment via Geo-XAI. <i>Cities, 172</i>, p.106906.</p>
   
   <p><b><a href="https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2501769" target="_blank">Refined understanding of street vitality: comparing the spatial effects of pedestrian vitality and cycling vitality and the spatial heterogeneity of factors</a></b><br>
   Published in <i>International Journal of Digital Earth, 2025</i><br>
@@ -67,7 +68,9 @@ Citation: <b>Bai, Z.</b>, Mao, Y., Gao, F. and Liu, S., 2026. Pedestrian and cyc
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Emotion & Cognition (情感与认知)</h2>
   
-  <p><b>Coming Paper</b>: Integrating Heterogeneous User-Generated Contents into Spatial Modeling of Agricultural Landscape Recreational Services: A Geographically Weighted Random Forest Approach. Xi Kang, Zhaocheng Bai, Jun Qi, et al. (Ecological Informatics)</p>
+  <p><b><a href="https://www.sciencedirect.com/science/article/pii/S1574954126002025" target="_blank">Integrating heterogeneous user-generated contents into spatial modeling of agricultural landscape recreational services: A geographically weighted random forest approach</a></b><br>
+  Published in <i>Ecological Informatics, 2026</i><br>
+  Citation: Kang, Xi, Jun Qi, <b>Zhaocheng Bai</b>, Weiwei Xu, and Xia Kong. "Integrating heterogeneous user-generated contents into spatial modeling of agricultural landscape recreational services: A geographically weighted random forest approach." <i>Ecological Informatics</i> (2026): 103796.</p>
   
   <p><b><a href="https://link.springer.com/article/10.1007/s43762-026-00240-1" target="_blank">Using LLMs for the multidimensional perception assessment of recreation and leisure spaces: a case study of Hangzhou, China</a></b><br>
   Published in <i>Computational Urban Science, 2026</i><br>
@@ -76,6 +79,10 @@ Citation: <b>Bai, Z.</b>, Mao, Y., Gao, F. and Liu, S., 2026. Pedestrian and cyc
 
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Well-being & Justice (福祉正义性)</h2>
+  
+  <p><b><a href="https://www.sciencedirect.com/science/article/pii/S0195925526002192" target="_blank">How objective natural environment, subjective nature connectedness and naturalness preference jointly shape mental health throughout China</a></b><br>
+  Published in <i>Environmental Impact Assessment Review, 2026</i><br>
+  Citation: Mao, Yuheng, Lu Cao, Jinguang Zhang, Dan Chen, Jiahui Ding, Tianyu Xia, <b>Zhaocheng Bai</b>, Xiangyan Zhang, and Zheng Zhang. "How objective natural environment, subjective nature connectedness and naturalness preference jointly shape mental health throughout China." <i>Environmental Impact Assessment Review 121</i> (2026): 108545.</p>
   
   <p><b><a href="https://journals.sagepub.com/doi/10.1177/23998083261420306" target="_blank">Quantity or structure? Asset or burden? Causal evidence of street greenery's impact on housing prices from sequential data</a></b><br>
   Published in <i>Environment and Planning B: Urban Analytics and City Science, 2026</i><br>
@@ -94,10 +101,12 @@ Citation: <b>Bai, Z.</b>, Mao, Y., Gao, F. and Liu, S., 2026. Pedestrian and cyc
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Urban Renewal and Third Space (城市更新和第三空间)</h2>
   
-<p><b><a href="https://link.cnki.net/urlid/11.2165.TU.20260326.1540.002" target="_blank">基于大语言模型的城市休闲空间多维感知评价——以上海市内环区域为例</a></b><br>
-<i>Multidimensional Perceptual Assessment of Urban Recreational Spaces Based on Large Language Models: A Case Study of Shanghai's Inner Ring Area</i><br>
-Published in <i>中国园林, 2026</i><br>
-Citation: 刘颂,<b>白钊成</b>,高枫,等. 基于大语言模型的城市休闲空间多维感知评价——以上海市内环区域为例[J/OL].中国园林,1-8[2026-04-03].https://link.cnki.net/urlid/11.2165.TU.20260326.1540.002.</p>
+  <p><b>Coming Paper</b>: Vision Language Model Reveals Spatial and Qualitative Inequities in Urban Renewals: Evidence from Shanghai, China. (<i>Applied Geography</i>)</p>
+  
+  <p><b><a href="https://link.cnki.net/urlid/11.2165.TU.20260326.1540.002" target="_blank">基于大语言模型的城市休闲空间多维感知评价——以上海市内环区域为例</a></b><br>
+  <i>Multidimensional Perceptual Assessment of Urban Recreational Spaces Based on Large Language Models: A Case Study of Shanghai's Inner Ring Area</i><br>
+  Published in <i>中国园林, 2026</i><br>
+  Citation: 刘颂,<b>白钊成</b>,高枫,等. 基于大语言模型的城市休闲空间多维感知评价——以上海市内环区域为例[J/OL].中国园林,1-8[2026-04-03].https://link.cnki.net/urlid/11.2165.TU.20260326.1540.002.</p>
 
   <p><b><a href="https://doi.org/10.1016/j.jretconser.2025.104423" target="_blank">Unraveling the consumer geography from the review big data: A supply-demand duality perspective using store density and expenditure intensity</a></b><br>
   Published in <i>Journal of Retailing and Consumer Services, 2025</i><br>
@@ -106,7 +115,6 @@ Citation: 刘颂,<b>白钊成</b>,高枫,等. 基于大语言模型的城市休�
   <p><b><a href="https://doi.org/10.1016/j.jclepro.2025.147059" target="_blank">Spatial differentiation and environmental mechanisms of Nighttime Economy Clusters: A supply-demand matching framework</a></b><br>
   Published in <i>Journal of Cleaner Production, 2025</i><br>
   Citation: Shuyu, Huang, Junru Gao, <b>Zhaocheng Bai</b>, Bin Li, and Jie Shen. "Spatial differentiation and environmental mechanisms of Nighttime Economy Clusters: A supply-demand matching framework." <i>Journal of Cleaner Production</i> (2025): 147059.</p>
-
 </div>
 
 <div class="list__item">
@@ -148,3 +156,4 @@ Citation: 刘颂,<b>白钊成</b>,高枫,等. 基于大语言模型的城市休�
   Citation: 马聪,<b>白钊成</b>,唐雪琼. 商贸活动介入下传统村落空间结构特征研究[J].西南大学学报(自然科学版),2023,45(07):199-209.</p>
 </div>
 {% endraw %}
+```
