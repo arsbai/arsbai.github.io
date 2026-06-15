@@ -1,4 +1,3 @@
-```html
 ---
 layout: archive
 permalink: /publications/
@@ -55,7 +54,7 @@ author_profile: true
   Published in <i>西南大学学报(自然科学版), 2022</i><br>
   Citation: <b>白钊成</b>,齐君,唐雪琼. 基于图像识别的街道环境绿量与运动偏好路径的关系[J].西南大学学报(自然科学版),2022,44(08):185-194.</p>
   
-  <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsajo_qy0KrEuv6dKagYDMmCHKDy4nzDGqIm7mxI6TwGF-oCxYDvwI_pJ5cEiexDXIfcyz8f5-hVvbJy1X-ix0SjJF5xDJkr1buk_8voh6Xl4anmy1xyElcbrq77nhdcWGQoGLQYc1Z4eMzrR8Dty6ZC-_Iy0NVXI5Y=&uniplatform=NZKPT" target="_blank">基于社会网络分析的城市绿地健身网络特征研究——以上海市内环区域为例</a></b><br>
+  <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsajo_qy0KrEuv6dKagYDMmCHKDy4nzDGqIm7mxI6TwGF-oCxYDvwI_pJ5cEiexDXIfcyz8f5-hVvbJy1X-ix0SjJF5xDJkr1buk_8voh6Xl4anmy1xyElcbrq77nhdcWGQoGLQYc1Z4eMzrR8Dty6ZC-_Iy0NVXI5Y=&uniplatform=NZKPT" target="_blank">基于社会网络分析的城市绿地健身 network 特征研究——以上海市内环区域为例</a></b><br>
   <i>Research on the Network Characteristics of Urban Green Space Fitness Based on Social Network Analysis: A Case Study of Shanghai's Inner Ring Area</i><br>
   Published in <i>中国园林, 2025</i><br>
   Citation: 刘颂,<b>白钊成</b>,柳迪子,等. 基于社会网络分析的城市绿地健身网络特征研究——以上海市内环区域为例[J].中国园林,2025,41(04):23-30.</p>
@@ -101,7 +100,8 @@ author_profile: true
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Urban Renewal and Third Space (城市更新和第三空间)</h2>
   
-  <p><b>Coming Paper</b>: Vision Language Model Reveals Spatial and Qualitative Inequities in Urban Renewals: Evidence from Shanghai, China. (<i>Applied Geography</i>)</p>
+  <p><b>Vision Language Model Reveals Spatial and Qualitative Inequities in Urban Renewals: Evidence from Shanghai, China</b><br>
+  Published in <i>Applied Geography</i> (Coming Paper)</p>
   
   <p><b><a href="https://link.cnki.net/urlid/11.2165.TU.20260326.1540.002" target="_blank">基于大语言模型的城市休闲空间多维感知评价——以上海市内环区域为例</a></b><br>
   <i>Multidimensional Perceptual Assessment of Urban Recreational Spaces Based on Large Language Models: A Case Study of Shanghai's Inner Ring Area</i><br>
@@ -156,4 +156,3 @@ author_profile: true
   Citation: 马聪,<b>白钊成</b>,唐雪琼. 商贸活动介入下传统村落空间结构特征研究[J].西南大学学报(自然科学版),2023,45(07):199-209.</p>
 </div>
 {% endraw %}
-```
