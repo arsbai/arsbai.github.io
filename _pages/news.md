@@ -5,25 +5,31 @@ title: "News 新闻"
 author_profile: true
 ---
 
-### 2026.6, 第五届未来城市·杭州论坛
+### 2026.6, Tongji University, Shanghai
 
-汇报：视觉语言模型揭示城市更新的措施正义性及感知影响 Vision-Language Models Reveal the Distributional Justice and Perceived Impacts of Urban Renewal Interventions
-
-<img src="/images/未来城市.jpg" alt="未来城市杭州论坛" style="width: 600px; max-width: 100%;">
-
----
-
-### 2026.6, CAUP博思论坛丨在场与在线 科研新坐标
-
-汇报：如何基于大模型把研究搞出新意思
+Presentation at: CAUP Bosisi Forum | Being Present and Online: New Coordinates for Scientific Research 
+<br>
+汇报：CAUP博思论坛丨在场与在线 科研新坐标 —— 如何基于大模型把研究搞出新意思
 
 <img src="/images/博思论坛.jpg" alt="CAUP博思论坛" style="width: 600px; max-width: 100%;">
 
 ---
 
-### 2026.5, 自然资源学会 2026城乡资源活化与人口高质量发展论坛
+### 2026.6, Zhejiang University, Hangzhou Zhejiang
 
-汇报：视觉语言模型揭示城市更新的措施正义性及感知影响 Vision-Language Models Reveal the Distributional Justice and Perceived Impacts of Urban Renewal Interventions
+Presentation at: The 5th Future City · Hangzhou Forum
+<br>
+汇报：第五届未来城市·杭州论坛 —— 视觉语言模型揭示城市更新的措施正义性及感知影响 Vision-Language Models Reveal the Distributional Justice and Perceived Impacts of Urban Renewal Interventions
+
+<img src="/images/未来城市.jpg" alt="未来城市杭州论坛" style="width: 600px; max-width: 100%;">
+
+---
+
+### 2026.5, China Society of Natural Resources, Changsha Hunan
+
+Presentation at: 2026 Forum on Urban and Rural Resource Activation and High-Quality Population Development
+<br>
+汇报：自然资源学会 2026城乡资源活化与人口高质量发展论坛 —— 视觉语言模型揭示城市更新的措施正义性及感知影响 Vision-Language Models Reveal the Distributional Justice and Perceived Impacts of Urban Renewal Interventions
 
 <img src="/images/城乡资源.jpg" alt="城乡资源活化论坛" style="width: 600px; max-width: 100%;">
 
@@ -35,12 +41,7 @@ Presentation of 1st Prize Paper at: The 12th Zhejiang Provincial Leisure Associa
 <br>
 汇报 论文一等奖： 第十二届浙江省休闲学会年会“数智时代的人类休闲文明”跨学科主题研讨会
 
-<table>
-  <tr>
-    <td><img src="/images/Shaoxing1.png" alt="Shaoxing Conference 1" style="max-width: 100%;"></td>
-    <td><img src="/images/Shaoxing2.png" alt="Shaoxing Conference 2" style="max-width: 100%;"></td>
-  </tr>
-</table>
+<img src="/images/shaoxing1.png" alt="Shaoxing Conference 1" style="width: 600px; max-width: 100%;">
 
 ---
 
@@ -50,12 +51,7 @@ Presentation at: The 14th Chinese Landscape Architecture Education Conference an
 <br>
 汇报：第十四届中国风景园林教育大会 全国风景园林专业学位研究生教育年会
 
-<table>
-  <tr>
-    <td><img src="/images/chongq1.png" alt="Chongqing Conference 1" style="max-width: 100%;"></td>
-    <td><img src="/images/chongqing2.png" alt="Chongqing Conference 2" style="max-width: 100%;"></td>
-  </tr>
-</table>
+<img src="/images/chongqing1.png" alt="Chongqing Conference 1" style="width: 600px; max-width: 100%;">
 
 ---
 
