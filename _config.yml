@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default" # Currently available options are "default", "air"
-title: "Zhaocheng BAI / 社会感知 Social Sensing"
+title: "Zhaocheng Bai · Social Sensing"
 title_separator: "-"
 name: &name "Zhaocheng Bai (白钊成)"
-description: &description "My research focuses on..."
+description: &description "Researching human-environment interactions through social sensing, multimodal data, and geospatial artificial intelligence."
 url: "https://arsbai.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "arsbai/arsbai.github.io"
@@ -25,11 +25,12 @@ author:
   avatar: "profile2.png"
   name: "Zhaocheng Bai"
   pronouns: "白钊成"
-  bio: "PhD Candidate in Landscape Architecture. My research focuses on using intelligent technologies to study human-environment interactions—including perception, emotion, cognition, and behavior—and the environmental mechanisms and justice dimensions of human well-being."
+  bio: "PhD Candidate studying human-environment interactions through social sensing and GeoAI."
   location: "Shanghai, China"
   employer: "CAUP of Tongji University"
   uri: # URL
-  email: "arsbai@alumni.tongji.edu.cn / socialsencing@126.com"
+  email: "arsbai@alumni.tongji.edu.cn"
+  email_secondary: "socialsencing@126.com"
 
   # Academic websites
   academia: # URL
@@ -37,7 +38,7 @@ author:
   googlescholar: "https://scholar.google.com/citations?user=Mut28cMAAAAJ&hl=en&oi=ao"
   inspire-hep: # URL
   impactstory: # URL
-  orcid: "https://orcid.org/my-orcid?orcid=0000-0002-9072-7785"
+  orcid: "https://orcid.org/0000-0002-9072-7785"
   semantic: # URL
   pubmed: # URL
   researchgate: "https://www.researchgate.net/profile/Zhaocheng-Bai"
