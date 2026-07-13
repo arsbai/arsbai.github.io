@@ -1,10 +1,10 @@
 # main navigation
 main:
-  - title: "Publications 发表"
+  - title: "Publications"
     url: /publications/
-  - title: "News 新闻"
+  - title: "News"
     url: /news/
-  - title: "CV 简历"
+  - title: "CV"
     url: /cv/
-  - title: "Platform & Fellow 平台和伙伴"
+  - title: "Community"
     url: /platform/
