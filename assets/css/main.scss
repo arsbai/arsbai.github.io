@@ -174,3 +174,173 @@ a { color: var(--jade); }
   html { scroll-behavior: auto; }
   *, *:before, *:after { transition: none !important; }
 }
+/* Homepage refinement overrides */
+
+/* 浅黄色导航栏 */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  background: #f4efda !important;
+}
+
+.masthead {
+  border-bottom: 1px solid rgba(23, 63, 53, 0.1);
+}
+
+/* 修复白色按钮中文字看不见的问题 */
+.research-hero .btn--primary,
+.research-hero .btn--primary:visited,
+.research-hero .btn--primary:hover {
+  background: #ffffff !important;
+  color: #173f35 !important;
+}
+
+/* News 按钮 */
+.research-hero .btn--outline,
+.research-hero .btn--outline:visited {
+  background: transparent !important;
+  border: 1px solid rgba(255, 255, 255, 0.55) !important;
+  color: #ffffff !important;
+}
+
+.research-hero .btn--outline:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* 删除介绍区域后，缩小首屏和研究方向之间的距离 */
+.research-hero + .home-section {
+  margin-top: 3.2rem;
+}
+
+/* 研究方向卡片 */
+.interest-card {
+  position: relative;
+  min-height: 9.4rem;
+  padding: 1.25rem 1.5rem;
+  overflow: hidden;
+}
+
+.interest-card > span {
+  position: relative;
+  z-index: 2;
+}
+
+.interest-card h3 {
+  position: relative;
+  z-index: 2;
+  max-width: 72%;
+  margin: 1rem 0 0.4rem;
+  color: #173f35;
+  font-size: 1.3rem;
+  line-height: 1.18;
+}
+
+.interest-card p {
+  position: relative;
+  z-index: 2;
+  max-width: 76%;
+  margin: 0;
+  color: #52645f;
+  font-size: 0.81rem;
+  line-height: 1.5;
+}
+
+/* 四个浅绿色背景图标 */
+.interest-card__icon {
+  position: absolute;
+  z-index: 1;
+  top: 0.3rem;
+  right: 0.45rem;
+  width: 7.7rem;
+  height: 7.7rem;
+  fill: none;
+  stroke: #9fd4c0;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  opacity: 0.52;
+  pointer-events: none;
+}
+
+/* 删除旧版右上角圆弧 */
+.interest-card::after {
+  display: none !important;
+}
+
+/* 发表列表整体压缩 */
+.publication-card {
+  grid-template-columns: 10rem minmax(0, 1fr) 2.5rem;
+  gap: 1.2rem;
+  padding: 0.95rem 0.4rem;
+}
+
+/* 年份 */
+.publication-card__meta {
+  gap: 0.18rem;
+}
+
+/* 期刊名称放大 */
+.publication-card__meta span:last-child {
+  color: #173f35;
+  font-size: 0.94rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+/* 完整论文标题使用统一字体 */
+.publication-card h3 {
+  margin: 0 0 0.35rem;
+  color: #173f35;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.06rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+/* 作者间距压缩 */
+.publication-card__authors {
+  margin: 0 !important;
+  font-size: 0.8rem !important;
+  line-height: 1.4 !important;
+}
+
+/* 手机端 */
+@media (max-width: 640px) {
+  .research-hero + .home-section {
+    margin-top: 2.4rem;
+  }
+
+  .interest-card {
+    min-height: 9.2rem;
+  }
+
+  .interest-card h3 {
+    max-width: 76%;
+    font-size: 1.18rem;
+  }
+
+  .interest-card p {
+    max-width: 78%;
+  }
+
+  .interest-card__icon {
+    width: 6.8rem;
+    height: 6.8rem;
+    opacity: 0.42;
+  }
+
+  .publication-card {
+    grid-template-columns: minmax(0, 1fr) 2.5rem;
+    gap: 0.7rem;
+    padding: 0.9rem 0.25rem;
+  }
+
+  .publication-card__meta {
+    grid-column: 1 / -1;
+    flex-direction: row;
+    align-items: baseline;
+    gap: 0.65rem;
+  }
+}
