@@ -344,3 +344,64 @@ a { color: var(--jade); }
     gap: 0.65rem;
   }
 }
+
+/* 手机端 Follow 菜单始终显示在首屏上方 */
+.sidebar,
+.author-card,
+.author__urls-wrapper {
+  overflow: visible !important;
+}
+
+.sidebar {
+  position: relative;
+  z-index: 50;
+}
+
+.author__urls-wrapper {
+  position: relative;
+  z-index: 60;
+}
+
+.author__urls {
+  z-index: 9999 !important;
+}
+
+/* 强制导航栏全部使用浅黄色 */
+body .masthead,
+body .masthead__inner-wrap,
+body .masthead__menu,
+body .masthead__menu-item,
+body #site-nav,
+body .greedy-nav,
+body .greedy-nav .visible-links,
+body .greedy-nav .site-title,
+body .greedy-nav a {
+  background-color: #f4efda !important;
+  background-image: none !important;
+}
+
+@media (max-width: 640px) {
+  .author__urls {
+    position: absolute !important;
+    right: 0 !important;
+    left: auto !important;
+    top: calc(100% + 0.4rem) !important;
+    width: min(19rem, 86vw) !important;
+    max-height: 65vh;
+    overflow-y: auto !important;
+    padding: 0.65rem 0 !important;
+    background: #ffffff !important;
+    border: 1px solid rgba(23, 63, 53, 0.16);
+    border-radius: 10px;
+    box-shadow: 0 16px 40px rgba(23, 63, 53, 0.2);
+  }
+
+  .author__urls li {
+    display: block !important;
+  }
+
+  .author__urls a {
+    display: block;
+    padding: 0.55rem 1rem;
+  }
+}
