@@ -8,6 +8,7 @@ classes: home-page
 <section class="research-hero">
   <div class="research-hero__eyebrow">LANDSCAPE · SOCIAL SENSING · GEOAI</div>
   <h1>Understanding places<br><span>through human experience.</span></h1>
+  
   <p class="research-hero__lead">I study how people perceive, feel, and behave in physical and social environments, using multimodal data and geospatial intelligence to make human experience measurable.</p>
   <p class="research-hero__cn">以多模态数据与地理空间智能，理解环境感知、情绪认知与行为，探索人居环境福祉及其公平机制。</p>
   <div class="research-hero__actions">
