@@ -21,7 +21,7 @@ Presentation at: The 5th Future City · Hangzhou Forum
 <br>
 汇报：第五届未来城市·杭州论坛 —— 视觉语言模型揭示城市更新的措施正义性及感知影响 Vision-Language Models Reveal the Distributional Justice and Perceived Impacts of Urban Renewal Interventions
 
-<img src="/images/未来城市.jpg" alt="未来城市杭州论坛" style="width: 600px; max-width: 100%;">
+<img src="/images/未来城市2.png" alt="未来城市杭州论坛" style="width: 600px; max-width: 100%;">
 
 ---
 
