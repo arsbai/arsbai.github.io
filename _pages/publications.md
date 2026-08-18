@@ -125,6 +125,11 @@ author_profile: true
 <div class="list__item">
   <h2 class="archive__subtitle" style="color: #00408B;">Others (其他论文)</h2>
   
+  <p><b><a href="https://link.cnki.net/urlid/31.1118.S.20260814.1651.004" target="_blank">上海环城绿带社会-生态-经济绩效耦合协调特征和影响机制研究</a></b><br>
+  <i>Coupling Coordination Characteristics and Influencing Mechanisms of Social-Ecological-Economic Performance in Shanghai's Ring Green Belt</i><br>
+  Published in <i>园林, 2026</i><br>
+  Citation: 刘颂,沈培宇,柳迪子,白钊成.上海环城绿带社会-生态-经济绩效耦合协调特征和影响机制研究[J/OL].园林,1-16[2026-08-18].https://link.cnki.net/urlid/31.1118.S.20260814.1651.004.</p>
+  
   <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsbLuHyPDEHTph5O4U0pCr1oflHSoG6pq7riORZIw5mN1fJBuWuVtIbn-wvGcbJAtReNXSBP6wfH9RPH0o-PjJCX7sTjlvya4EwMod9kn2xnIL7CZCCWgF-yGX_FWf1CKdqyNOX3utJSpXu41TN7l4IwrRd_xyXAUmg=&uniplatform=NZKPT" target="_blank">城市蓝绿基础设施多尺度增汇减碳能效测度研究进展和规划策略</a></b><br>
   <i>Research Progress and Planning Strategies for Multi-scale Carbon Sink Enhancement and Emission Reduction Efficiency Measurement of Urban Blue-Green Infrastructure</i><br>
   Published in <i>风景园林, 2025</i><br>
