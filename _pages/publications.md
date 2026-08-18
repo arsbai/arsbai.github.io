@@ -70,6 +70,9 @@ author_profile: true
 <div class="list__item">
   <h2 id="wellbeing-justice" class="archive__subtitle" style="color: #00408B;">Well-being & Environmental Justice (福祉正义性)</h2>
   
+  <p><b>Beyond Numerical Interpretation: Decoding the Urban Environmental Mechanisms of Noise Perception with LLMs and Geo-XAI</b><br>
+  Published in <i>Building and Environment</i> (Coming Paper)</p>
+
   <p><b><a href="https://www.sciencedirect.com/science/article/pii/S0195925526002192" target="_blank">How objective natural environment, subjective nature connectedness and naturalness preference jointly shape mental health throughout China</a></b><br>
   Published in <i>Environmental Impact Assessment Review, 2026</i><br>
   Citation: Mao, Yuheng, Lu Cao, Jinguang Zhang, Dan Chen, Jiahui Ding, Tianyu Xia, <b>Zhaocheng Bai</b>, Xiangyan Zhang, and Zheng Zhang. "How objective natural environment, subjective nature connectedness and naturalness preference jointly shape mental health throughout China." <i>Environmental Impact Assessment Review 121</i> (2026): 108545.</p>
@@ -91,6 +94,12 @@ author_profile: true
 <div class="list__item">
   <h2 id="urban-renewal-longitudinal" class="archive__subtitle" style="color: #00408B;">Urban Renewal & Longitudinal Research (城市更新与时序研究)</h2>
   
+  <p><b>Exploring Physical Change Differences and Perceptual Impacts Across Urban Expansion and Micro-Renewal Periods Using VLM</b><br>
+  Published in <i>Cities</i> (Coming Paper)</p>
+
+  <p><b>How does cultural-commercial vitality change during historic and cultural district renewal? A longitudinal street-view study</b><br>
+  Published in <i>Frontiers of Architectural Research</i> (Coming Paper)</p>
+
   <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=hmNf6PfbaBvcrqD9VzinSZ1avrqNFkOZvsfxturhDxboPLYn-xldt4nKegsCb-pyB3Ur0V-E6dgmcHd2DJcyX0uYqzUbyI0e3mmSEl9q2k1obbxYlBm9K6Ud0O213Pe0yaS83JWkC90U_yfM6vdi9BNhmg67Gbn0dqYYK6JwjwFxFpYvfu1iRQ==&uniplatform=NZKPT&language=CHS" target="_blank">基于街景变化的城市更新模式与感知演变的关联分析——以上海市中央活动区为例</a></b><br>
   <i>Association Analysis of Urban Renewal Patterns and Perceptual Evolution Based on Street View Changes: A Case Study of Shanghai's Central Activity Zone</i><br>
   Published in <i>风景园林, 2026</i><br>
