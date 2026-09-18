@@ -36,6 +36,10 @@ author_profile: true
   Published in <i>Ecological Informatics, 2026</i><br>
   Citation: Kang, Xi, Jun Qi, <b>Zhaocheng Bai</b>, Weiwei Xu, and Xia Kong. "Integrating heterogeneous user-generated contents into spatial modeling of agricultural landscape recreational services: A geographically weighted random forest approach." <i>Ecological Informatics</i> (2026): 103796.</p>
 
+  <p><b><a href="https://doi.org/10.1016/j.jenvman.2026.130878" target="_blank">Decoding multimodal social media data with LLM to reveal agricultural landscape recreational services in Chengdu, China</a></b><br>
+  Published in <i>Journal of Environmental Management, 2026</i><br>
+  Citation: Zhang, Jiali, Ruhong Xin, Haohua Wang, Jianhua Zhou, <b>Zhaocheng Bai</b>, and Qingyuan Yang. "Decoding multimodal social media data with LLM to reveal agricultural landscape recreational services in Chengdu, China." <i>Journal of Environmental Management 417</i> (2026): 130878.</p>
+
   <p><b><a href="https://link.springer.com/article/10.1007/s43762-026-00240-1" target="_blank">Using LLMs for the multidimensional perception assessment of recreation and leisure spaces: a case study of Hangzhou, China</a></b><br>
   Published in <i>Computational Urban Science, 2026</i><br>
   Citation: <b>Bai, Z.</b>, Wu, Y., Kang, X., Kong, X. and Zhang, J., 2026. Using LLMs for the multidimensional perception assessment of recreation and leisure spaces: a case study of Hangzhou, China. <i>Computational Urban Science</i>. DOI: 10.1007/s43762-026-00240-1.</p>
@@ -70,8 +74,9 @@ author_profile: true
 <div class="list__item">
   <h2 id="wellbeing-justice" class="archive__subtitle" style="color: #00408B;">Well-being & Environmental Justice (福祉正义性)</h2>
   
-  <p><b>Beyond Numerical Interpretation: Decoding the Urban Environmental Mechanisms of Noise Perception with LLMs and Geo-XAI</b><br>
-  Published in <i>Building and Environment</i> (Coming Paper)</p>
+  <p><b><a href="https://doi.org/10.1016/j.buildenv.2026.115243" target="_blank">From Numerical Attribution to Semantic Interpretation: Environmental Associations of Noise Perception with LLM and Geo-XAI</a></b><br>
+  Published in <i>Building and Environment, 2026</i><br>
+  Citation: <b>Bai, Zhaocheng</b>, Rui Ji, Jun Qi, Feng Gao, Song Liu, and Yan Zhang. "From Numerical Attribution to Semantic Interpretation: Environmental Associations of Noise Perception with LLM and Geo-XAI." <i>Building and Environment</i> (2026): 115243.</p>
 
   <p><b><a href="https://www.sciencedirect.com/science/article/pii/S0195925526002192" target="_blank">How objective natural environment, subjective nature connectedness and naturalness preference jointly shape mental health throughout China</a></b><br>
   Published in <i>Environmental Impact Assessment Review, 2026</i><br>
@@ -105,8 +110,9 @@ author_profile: true
   Published in <i>风景园林, 2026</i><br>
   Citation: 刘颂,<b>白钊成</b>,黄舒语,等. 基于街景变化的城市更新模式与感知演变的关联分析——以上海市中央活动区为例[J/OL].风景园林,1-19[2026-02-04].https://link.cnki.net/urlid/11.5366.S.20260126.1103.001.</p>
   
-  <p><b>Vision Language Model Reveals Spatial and Qualitative Inequities in Urban Renewals: Evidence from Shanghai, China</b><br>
-  Published in <i>Applied Geography</i> (Coming Paper)</p>
+  <p><b><a href="https://doi.org/10.1016/j.apgeog.2026.104152" target="_blank">Vision-language models reveal spatial and qualitative inequities in urban renewal: Evidence from Shanghai, China</a></b><br>
+  Published in <i>Applied Geography, 2026</i><br>
+  Citation: <b>Bai, Zhaocheng</b>, Feng Gao, Lei Wang, Jin Du, Song Liu, and Yu Ye. "Vision-language models reveal spatial and qualitative inequities in urban renewal: Evidence from Shanghai, China." <i>Applied Geography 195</i> (2026): 104152.</p>
   
   <p><b><a href="https://link.cnki.net/urlid/11.2165.TU.20260326.1540.002" target="_blank">基于大语言模型的城市休闲空间多维感知评价——以上海市内环区域为例</a></b><br>
   <i>Multidimensional Perceptual Assessment of Urban Recreational Spaces Based on Large Language Models: A Case Study of Shanghai's Inner Ring Area</i><br>
