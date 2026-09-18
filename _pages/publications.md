@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% raw %}
+<p>已发表同行评议论文 <b>30</b> 篇，其中以第一作者（含在读期间导师一作）或通讯作者身份发表 <b>19</b> 篇，包括《地理学报》、<i>Cities</i>、<i>Building and Environment</i> 等领域内重要期刊。</p>
+
 <div class="list__item">
   <h2 id="perception-emotion-cognition" class="archive__subtitle" style="color: #00408B;">Perception, Emotion & Cognition (感知、情感与认知)</h2>
   
