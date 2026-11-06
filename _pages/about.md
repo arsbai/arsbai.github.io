@@ -38,7 +38,8 @@ classes: home-page
   <div class="publication-list">
     <article class="publication-card"><div class="publication-card__meta"><span>2026</span><span>Cities</span></div><div><h3>Pedestrian and cycling vitality in scenic and downtown contexts: Decoding nonlinear associations with the built environment via Geo-XAI</h3><p class="publication-card__authors"><strong>Bai, Z.</strong>, Mao, Y., Gao, F., & Liu, S.</p></div><a href="https://doi.org/10.1016/j.cities.2026.106906" aria-label="Open publication" class="publication-card__arrow">↗</a></article>
     <article class="publication-card"><div class="publication-card__meta"><span>2026</span><span>Environment and Planning B</span></div><div><h3>Quantity or structure? Asset or burden? Causal evidence of street greenery’s impact on housing prices from sequential data</h3><p class="publication-card__authors"><strong>Bai, Z.</strong>, Ji, R., Gao, F., Mao, Y., & Liu, S.</p></div><a href="https://doi.org/10.1177/23998083261420306" aria-label="Open publication" class="publication-card__arrow">↗</a></article>
-    <article class="publication-card"><div class="publication-card__meta"><span>2022</span><span>Acta Geographica Sinica</span></div><div><h3>Visual landscape quality of scenic roads: Applying image recognition to decipher the human field of view</h3><p class="publication-card__authors">QI Jun, <strong>BAI Zhaocheng</strong>, LYU Guangyao, TANG Xueqiong</p></div><a href="https://kns.cnki.net" aria-label="Open publication" class="publication-card__arrow">↗</a></article>
+    <article class="publication-card"><div class="publication-card__meta"><span>2026</span><span>Building and Environment</span></div><div><h3>From Numerical Attribution to Semantic Interpretation: Environmental Associations of Noise Perception with LLM and Geo-XAI</h3><p class="publication-card__authors"><strong>Bai, Z.</strong>, Ji, R., Qi, J., Gao, F., Liu, S., & Zhang, Y.</p></div><a href="https://doi.org/10.1016/j.buildenv.2026.115243" aria-label="Open publication" class="publication-card__arrow">↗</a></article>
+    <article class="publication-card"><div class="publication-card__meta"><span>2026</span><span>Applied Geography</span></div><div><h3>Vision-language models reveal spatial and qualitative inequities in urban renewal: Evidence from Shanghai, China</h3><p class="publication-card__authors"><strong>Bai, Z.</strong>, Gao, F., Wang, L., Du, J., Liu, S., & Ye, Y.</p></div><a href="https://doi.org/10.1016/j.apgeog.2026.104152" aria-label="Open publication" class="publication-card__arrow">↗</a></article>
   </div>
 </section>
 
@@ -48,9 +49,9 @@ classes: home-page
     <a href="/news/" class="text-link">All news <span aria-hidden="true">→</span></a>
   </div>
   <div class="news-timeline">
+    <article><time>2026.06</time><div><h3>The 5th Future City · Hangzhou Forum</h3><p>Zhejiang University, Hangzhou, Zhejiang · Conference presentation</p><p class="news-timeline__cn">第五届未来城市·杭州论坛 · 会议汇报：视觉语言模型揭示城市更新的措施正义性及感知影响</p></div></article>
     <article><time>2025.10</time><div><h3>12th Zhejiang Provincial Leisure Association Annual Conference</h3><p>Shaoxing University · Presentation of First Prize Paper</p><p class="news-timeline__cn">第十二届浙江省休闲学会年会 · 论文一等奖汇报</p></div></article>
     <article><time>2025.09</time><div><h3>14th Chinese Landscape Architecture Education Conference</h3><p>Southwest University, Chongqing · Conference presentation</p><p class="news-timeline__cn">第十四届中国风景园林教育大会 · 会议汇报</p></div></article>
-    <article><time>2025.07</time><div><h3>3rd Scientific Conference on Healthy Cities</h3><p>Tongji University, Shanghai · Conference presentation</p><p class="news-timeline__cn">第三届健康城市科学年会 · 会议汇报</p></div></article>
   </div>
 </section>
 
