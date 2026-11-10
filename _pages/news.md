@@ -55,6 +55,16 @@ Presentation at: The 14th Chinese Landscape Architecture Education Conference an
 
 ---
 
+### 2025.7, Tongji University, Shanghai
+
+Presentation at: The 3rd Scientific Conference on Healthy Cities and the 9th Symposium on the Application of GIS and Spatial Analysis in Public Health
+<br>
+汇报：第三届健康城市科学年会暨第九届地理信息和空间分析技术在公共卫生健康领域的应用研讨会
+
+<img src="/images/healthy-cities-2025.png" alt="健康城市科学年会汇报：探索体力出行和建成环境两端的空间效应" style="width: 600px; max-width: 100%;">
+
+---
+
 ### 2025.5, Online
 
 Presentation at: *Chinese Landscape Architecture* Themed Forum: Social Networks and Community in Landscape Architecture 
