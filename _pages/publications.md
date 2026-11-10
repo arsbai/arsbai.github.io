@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% raw %}
-<p>已发表同行评议论文 <b>31</b> 篇，其中以第一作者（含在读期间导师一作）或通讯作者身份发表 <b>19</b> 篇，包括《地理学报》、<i>Cities</i>、<i>Building and Environment</i> 等领域内重要期刊。</p>
+<p>已发表同行评议论文 <b>36</b> 篇，其中以第一作者（含在读期间导师一作）或通讯作者身份发表 <b>22</b> 篇，包括《地理学报》、<i>Cities</i>、<i>Building and Environment</i> 等领域内重要期刊。</p>
 
 <div class="list__item">
   <h2 id="perception-emotion-cognition" class="archive__subtitle" style="color: #00408B;">Perception, Emotion & Cognition (感知、情感与认知)</h2>
@@ -20,6 +20,15 @@ author_profile: true
   <i>Visual landscape quality of scenic road:Applying imagerecognition to decipher human field of view</i><br>
   Published in <i>地理学报, 2022</i><br>
   Citation: 齐君,<b>白钊成</b>,吕光耀,等. 基于人眼视域图像识别的风景道视觉景观质量评价[J].地理学报,2022,77(11):2817-2837.</p>
+
+  <p><b><a href="https://doi.org/10.19765/j.cnki.1002-5006.2022.08.008" target="_blank">基于图像分割技术的旅游图像内容分析：原理、方法与实证</a></b><br>
+  <i>Using Image Segmentation in Tourist Image Content Analysis: Principle, Method and Application</i><br>
+  Published in <i>旅游学刊, 2022</i><br>
+  Citation: 齐君,<b>白钊成</b>,孙永科,等. 基于图像分割技术的旅游图像内容分析：原理、方法与实证[J].旅游学刊,2022,37(8):58-69.DOI:10.19765/j.cnki.1002-5006.2022.08.008.</p>
+
+  <p><b><a href="https://doi.org/10.3390/land13091381" target="_blank">Deciphering Motorists’ Perceptions of Scenic Road Visual Landscapes: Integrating Binocular Simulation and Image Segmentation</a></b><br>
+  Published in <i>Land, 2024</i><br>
+  Citation: <b>Bai, Zhaocheng</b>, Rui Ji, and Jun Qi. "Deciphering Motorists’ Perceptions of Scenic Road Visual Landscapes: Integrating Binocular Simulation and Image Segmentation." <i>Land 13</i>, no. 9 (2024): 1381.</p>
   
   <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsauzG6TS_W-Lf9yJo22douWkx4T3hlnQqvHRObd4ft-6hfu47ZvFMEakQ56LwrCPZLJ94Q6X230tq5oHHhtpDGtkzjzeatRpdj1HnVGmxuF7Sf_o3E_WzDIsZg3WuvVPTcxW_-rVJ3v_auUqxzit3WdaZDFCOptHQA=&uniplatform=NZKPT" target="_blank">基于图像识别技术的云南美丽公路景观质量研究</a></b><br>
   <i>Research on Landscape Quality of Yunnan's Beautiful Highways Based on Image Recognition Technology</i><br>
@@ -71,6 +80,10 @@ author_profile: true
   <p><b><a href="https://doi.org/10.1002/pan3.70142" target="_blank">Walking, jogging or cycling? Exploring the associations between campus greenway environment and physical activity using large‐scale trajectory data</a></b><br>
   Published in <i>People and Nature, 2025</i><br>
   Citation: Mao, Yuheng, Hanyu Yin, <b>Zhaocheng Bai</b>, Jiacheng Yin, Tianyu Xia, Ling Wang, Jinguang Zhang, and Dan Chen. "Walking, jogging or cycling? Exploring the associations between campus greenway environment and physical activity using large‐scale trajectory data." <i>People and Nature</i> (2025).</p>
+
+  <p><b><a href="https://doi.org/10.3390/urbansci9040111" target="_blank">Social Network Analysis Reveals Spatiotemporal Patterns of Green Space Recreational Walking Between Workdays and Rest Days</a></b><br>
+  Published in <i>Urban Science, 2025</i><br>
+  Citation: Zhang, Jiali, and <b>Zhaocheng Bai</b>. "Social Network Analysis Reveals Spatiotemporal Patterns of Green Space Recreational Walking Between Workdays and Rest Days." <i>Urban Science 9</i>, no. 4 (2025): 111.</p>
 </div>
 
 <div class="list__item">
@@ -125,6 +138,10 @@ author_profile: true
   Published in <i>中国园林, 2026</i><br>
   Citation: 刘颂,<b>白钊成</b>,高枫,等. 基于大语言模型的城市休闲空间多维感知评价——以上海市内环区域为例[J/OL].中国园林,1-8[2026-04-03].https://link.cnki.net/urlid/11.2165.TU.20260326.1540.002.</p>
 
+  <p><b><a href="https://doi.org/10.3390/land15020256" target="_blank">Hybrid Rural Landscape Characterization and Typological Governance Strategies in Metropolitan Fringe Areas Based on Machine Learning: A Case Study of Baoshan District, Shanghai</a></b><br>
+  Published in <i>Land, 2026</i><br>
+  Citation: Liu, Dizi, Song Liu, <b>Zhaocheng Bai</b>, Peiyu Shen, and Yuxiang Dong. "Hybrid Rural Landscape Characterization and Typological Governance Strategies in Metropolitan Fringe Areas Based on Machine Learning: A Case Study of Baoshan District, Shanghai." <i>Land 15</i>, no. 2 (2026): 256.</p>
+
   <p><b><a href="https://doi.org/10.1016/j.jretconser.2025.104423" target="_blank">Unraveling the consumer geography from the review big data: A supply-demand duality perspective using store density and expenditure intensity</a></b><br>
   Published in <i>Journal of Retailing and Consumer Services, 2025</i><br>
   Citation: Gao, Feng, <b>Zhaocheng Bai</b>, Jiemin Wu, Zirui Chen, Wangyang Chen, Guanyao Li, and Shunyi Liao. "Unraveling the consumer geography from the review big data: A supply-demand duality perspective using store density and expenditure intensity." <i>Journal of Retailing and Consumer Services</i> 87 (2025): 104423.</p>
@@ -141,6 +158,10 @@ author_profile: true
   <i>Coupling Coordination Characteristics and Influencing Mechanisms of Social-Ecological-Economic Performance in Shanghai's Ring Green Belt</i><br>
   Published in <i>园林, 2026</i><br>
   Citation: 刘颂,沈培宇,柳迪子,白钊成.上海环城绿带社会-生态-经济绩效耦合协调特征和影响机制研究[J/OL].园林,1-16[2026-08-18].https://link.cnki.net/urlid/31.1118.S.20260814.1651.004.</p>
+
+  <p><b><a href="https://doi.org/10.1016/j.jenvman.2026.130510" target="_blank">How payment for wetland ecosystem services drives ecological restoration and landscape patterns to enhance ecosystem services and endangered species habitat: A decade of evidence from Southwest China</a></b><br>
+  Published in <i>Journal of Environmental Management, 2026</i><br>
+  Citation: Yang, Wenhui, Yuying Hu, Wenbo Cai, <b>Zhaocheng Bai</b>, Zijiao Zhao, Zunce Zhang, Wanting Peng, and Chengzhao Wu. "How payment for wetland ecosystem services drives ecological restoration and landscape patterns to enhance ecosystem services and endangered species habitat: A decade of evidence from Southwest China." <i>Journal of Environmental Management 414</i> (2026): 130510.</p>
   
   <p><b><a href="https://kns.cnki.net/kcms2/article/abstract?v=sUPs6kfIqsbLuHyPDEHTph5O4U0pCr1oflHSoG6pq7riORZIw5mN1fJBuWuVtIbn-wvGcbJAtReNXSBP6wfH9RPH0o-PjJCX7sTjlvya4EwMod9kn2xnIL7CZCCWgF-yGX_FWf1CKdqyNOX3utJSpXu41TN7l4IwrRd_xyXAUmg=&uniplatform=NZKPT" target="_blank">城市蓝绿基础设施多尺度增汇减碳能效测度研究进展和规划策略</a></b><br>
   <i>Research Progress and Planning Strategies for Multi-scale Carbon Sink Enhancement and Emission Reduction Efficiency Measurement of Urban Blue-Green Infrastructure</i><br>
