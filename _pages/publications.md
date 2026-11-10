@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% raw %}
-<p>已发表同行评议论文 <b>30</b> 篇，其中以第一作者（含在读期间导师一作）或通讯作者身份发表 <b>19</b> 篇，包括《地理学报》、<i>Cities</i>、<i>Building and Environment</i> 等领域内重要期刊。</p>
+<p>已发表同行评议论文 <b>31</b> 篇，其中以第一作者（含在读期间导师一作）或通讯作者身份发表 <b>19</b> 篇，包括《地理学报》、<i>Cities</i>、<i>Building and Environment</i> 等领域内重要期刊。</p>
 
 <div class="list__item">
   <h2 id="perception-emotion-cognition" class="archive__subtitle" style="color: #00408B;">Perception, Emotion & Cognition (感知、情感与认知)</h2>
@@ -112,6 +112,10 @@ author_profile: true
   Published in <i>风景园林, 2026</i><br>
   Citation: 刘颂,<b>白钊成</b>,黄舒语,等. 基于街景变化的城市更新模式与感知演变的关联分析——以上海市中央活动区为例[J/OL].风景园林,1-19[2026-02-04].https://link.cnki.net/urlid/11.5366.S.20260126.1103.001.</p>
   
+  <p><b><a href="https://doi.org/10.1016/j.apgeog.2026.104252" target="_blank">Towards inclusive urban planning: Fine-scale mapping of age and education demographic diversity in Guangzhou</a></b><br>
+  Published in <i>Applied Geography, 2027</i> (Published online: 9 November 2026)<br>
+  Citation: Gao, Feng, <b>Zhaocheng Bai</b>, Yang Liu, Ye Wang, Yafeng Ni, Siming Liao, Danheng Zhuang, and Xin Hu. "Towards inclusive urban planning: Fine-scale mapping of age and education demographic diversity in Guangzhou." <i>Applied Geography 198</i> (2027): 104252.</p>
+
   <p><b><a href="https://doi.org/10.1016/j.apgeog.2026.104152" target="_blank">Vision-language models reveal spatial and qualitative inequities in urban renewal: Evidence from Shanghai, China</a></b><br>
   Published in <i>Applied Geography, 2026</i><br>
   Citation: <b>Bai, Zhaocheng</b>, Feng Gao, Lei Wang, Jin Du, Song Liu, and Yu Ye. "Vision-language models reveal spatial and qualitative inequities in urban renewal: Evidence from Shanghai, China." <i>Applied Geography 195</i> (2026): 104152.</p>
